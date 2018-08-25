@@ -2,6 +2,8 @@ A curated list of awesome Python real-world open-source applications.
 
 ## Flask
 * [Docker-registry](https://github.com/docker/docker-registry) - Docker registry service [Deprecated]
+* [Airflow](https://github.com/apache/incubator-airflow) - Airflow is a platform to programmatically author, schedule, and monitor workflows.
+* [pgadmin4](https://github.com/postgres/pgadmin4) - pgAdmin 4 is a rewrite of the popular pgAdmin3 management tool for the PostgreSQL (http://www.postgresql.org) database.
 
 ## Django
 * [sentry](https://github.com/getsentry/sentry) - Sentry is a cross-platform crash reporting and aggregation platform.
